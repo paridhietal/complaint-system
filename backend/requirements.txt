@@ -1,0 +1,17 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+pydantic==2.9.2
+python-multipart==0.0.9
+langgraph==0.2.34
+langchain-core==0.3.9
+groq==0.11.0
+python-dotenv==1.0.1
+pypdf==5.0.1
+python-docx==1.1.2
+numpy==1.26.4
+# Optional: enables real semantic duplicate detection. If this fails to
+# install/load, duplicate_detection.py automatically falls back to text
+# similarity, so it's safe to comment out under time pressure.
+sentence-transformers==3.1.1

@@ -1,0 +1,6 @@
+﻿venv/
+node_modules/
+.env
+complaints.db
+__pycache__/
+*.pyc

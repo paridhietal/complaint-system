@@ -1,0 +1,18 @@
+Complaint Source: Retail Pharmacy - MedPlus, Pune
+Customer Name: Anita Deshmukh (Pharmacist)
+Date: 05-Sep-2026
+
+Product: Paracetamol 650mg Tablets, Strength: 650mg
+Batch/Lot Number: PCM-2026-1180
+Manufacturing Date: 20-Feb-2026
+Expiry Date: 19-Feb-2028
+Quantity Affected: 0.5 kg (approx. 100 strips)
+
+Complaint Details:
+Several blister strips in a recently received carton have misprinted batch
+numbers on the foil (showing "PCM-2026-1108" instead of the correct
+"PCM-2026-1180"). Tablet count, seal integrity, and physical appearance of
+the tablets themselves are all normal. This appears to be a printing/labeling
+error rather than a product quality issue. No patient safety concern
+identified. Requesting correction and re-verification of the printing
+process for this batch.
